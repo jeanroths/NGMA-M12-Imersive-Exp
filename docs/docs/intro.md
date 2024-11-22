@@ -12,7 +12,7 @@ Um escape room é uma atividade onde um grupo de pessoas é "trancado" em uma sa
 
 A relevância desse tema está na crescente demanda por experiências personalizadas e imersivas no mercado de entretenimento. Jogos de escape room em VR não apenas desafiam o intelecto dos jogadores, mas também criam um senso de colaboração e engajamento emocional. Além disso, o formato se adapta a públicos variados, indo de experiências mais lúdicas e acessíveis a aventuras complexas e desafiadoras para jogadores experientes. Essa flexibilidade amplia seu apelo, tornando-o uma escolha estratégica no cenário atual de inovação no entretenimento.  
 
-Por fim, explorar o tema de **Escape Eooms em VR** nos permite investigar como a tecnologia pode transcender os limites do espaço físico, reinventando um formato de jogo já popular em algo inteiramente novo e dinâmico. Nosso objetivo é demonstrar como essas experiências podem redefinir a interação humano-tecnológica, alavancando a Realidade Virtual para criar narrativas envolventes e inesquecíveis.  
+Por fim, explorar o tema de **Escape Rooms em VR** nos permite investigar como a tecnologia pode transcender os limites do espaço físico, reinventando um formato de jogo já popular em algo inteiramente novo e dinâmico. Nosso objetivo é demonstrar como essas experiências podem redefinir a interação humano-tecnológica, alavancando a Realidade Virtual para criar narrativas envolventes e inesquecíveis.  
 
 ## Pesquisas e Experimentos  
 
