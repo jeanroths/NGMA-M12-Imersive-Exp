@@ -45,6 +45,36 @@ Em uma primeira análise, reunimos as principais ações e verbos que os jogador
 
 **"Andar"**: A sala onde ocorrerá o jogo será grande. Como consequência, a dificuldade e a duração do jogo serão aumentadas, algo que buscamos proporcionar aos jogadores. Portanto, o usuário precisará percorrer a sala várias vezes para encontrar pistas relevantes.
 
+## Requisitos funcionais e não funcionais 
+
+### Requisitos funcionais
+
+RF1: O jogo deve permitir que usuário interaja com objetos e mecanismos do ambiente.
+
+RF2: O jogo permite ao usuário interagir com elementos de "puzzle" e desafios alinhados com a narrativa do escape room.
+
+RF3: O jogo deve fornecer mensagens ou dicas para auxiliar o jogador na jornada.
+
+RF4: O jogo deve incluir um sistema de cronômetro vísivel ao jogador para reforçar a sensação de urgẽncia.
+
+RF5: O jogo deve fornecer efeitos sonoros, iluminação dinâmica, e elementos assustadores para aumentar a imersão do jogador.
+
+RF6: O jogo deve fornecer feedbacks para quando o jogador completar desafios. 
+
+### Requisitos não funcionais
+
+RNF1: O jogo deve ser intuitivo ao jogador, controles e objetivos dentro do jogo devem ser acessíveis para usuários com pouca experiência.
+
+RNF2: O jogo deve ser compatível com o dispositivo Meta Quest 3.
+
+RNF3: As interações do jogo devem possuir um tempo de resposta inferior a 100ms.
+
+RNF4: O jogo deve executar constantemente a pelo menos 90 FPS para garantir fluidez e reduzir possibilidade de motion sickiness.
+
+
+  
+
+
 ## Referências
 WAKKA, Wagner. Mercado de games agora vale mais que indústrias de música e cinema juntas. Canaltech, 25 fev. 2021. Disponível em: https://canaltech.com.br/games/mercado-de-games-agora-vale-mais-que-industrias-de-musica-e-cinema-juntas-179455/. Acesso em: 22 nov. 2024.
 
