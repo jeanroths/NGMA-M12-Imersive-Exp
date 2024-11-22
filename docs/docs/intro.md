@@ -63,7 +63,7 @@ RF6: O jogo deve fornecer feedbacks para quando o jogador completar desafios, re
 
 ### Requisitos não funcionais
 
-RNF1: O jogo deve ser considerado intuitivo por pelo menos 80% dos jogadores participantes de testes de usabilidade, que devem concluir as tarefas principais sem assistência em até 5 minutos.
+RNF1: O jogo deve ser considerado intuitivo por pelo menos 80% dos jogadores participantes de testes de usabilidade.
 
 RNF2: O jogo deve ser compatível com o dispositivo Meta Quest 3.
 
