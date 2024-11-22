@@ -49,7 +49,7 @@ Em uma primeira análise, reunimos as principais ações e verbos que os jogador
 
 ### Requisitos funcionais
 
-RF1: O jogo deve permitir que usuário interaja com objetos e mecanismos do ambiente.
+RF1: O jogo deve permitir que usuário interaja com objetos e mecanismos do ambiente, através dos controladores do console.
 
 RF2: O jogo permite ao usuário interagir com elementos de "puzzle" e desafios alinhados com a narrativa do escape room.
 
@@ -59,11 +59,11 @@ RF4: O jogo deve incluir um sistema de cronômetro vísivel ao jogador para refo
 
 RF5: O jogo deve fornecer efeitos sonoros, iluminação dinâmica, e elementos assustadores para aumentar a imersão do jogador.
 
-RF6: O jogo deve fornecer feedbacks para quando o jogador completar desafios. 
+RF6: O jogo deve fornecer feedbacks para quando o jogador completar desafios, refletindo a importância do feito. Esses feedbacks podem reutilizar elementos definidos no RF5, como efeitos sonoros e iluminação dinâmica, complementados por mensagens textuais ou visuais específicas para o contexto.
 
 ### Requisitos não funcionais
 
-RNF1: O jogo deve ser intuitivo ao jogador, controles e objetivos dentro do jogo devem ser acessíveis para usuários com pouca experiência.
+RNF1: O jogo deve ser considerado intuitivo por pelo menos 80% dos jogadores participantes de testes de usabilidade, que devem concluir as tarefas principais sem assistência em até 5 minutos.
 
 RNF2: O jogo deve ser compatível com o dispositivo Meta Quest 3.
 
