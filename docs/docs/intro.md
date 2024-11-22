@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+title: Introdução ao Módulo
+slug: /
+---
+
 # Documentação: Experiências Imersivas com Realidade Virtual no Entretenimento  
 ## Introdução  
 
