@@ -1,0 +1,70 @@
+:: StoryTitle
+Jogão
+
+
+:: StoryData
+{
+  "ifid": "AE599823-B4F3-439F-A679-7186A24842A6",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Personagem acorda sentado",
+  "tag-colors": {
+    "personagem": "orange"
+  },
+  "zoom": 1
+}
+
+
+:: Ler as infos do quadro [personagem] {"position":"800,325","size":"100,100"}
+Narrador: Você não tem tempo para isso. 
+
+Info 1: 
+- eletrochoque S (text-colour:red)[T] Q (text-colour:red)[Q] S (text-colour:red)[S] D
+
+Info 2:
+Seja bem vindo ao (Nome do local)
+Sabemos que o início pode não ser fácil, mas estamos aqui com o propósito de te fazer bem. Estamos há 74 anos ajudando as pessoas a retornarem a sociedade com saúde utilizando tratamentos humanizados. Esperamos que tenha uma boa estadia e pode contar com a gente para lhe auxiliar nesse processo. 
+
+Info 3:
+- Remédio S 19:00 (text-color:red)
+
+Info 4:
+Sala 5 Dr Murilo Cestari Terra
+
+[[Remédio]] 
+[[Olhar de trás da cruz]] 
+
+
+
+:: Olhar de trás da cruz [personagem] {"position":"400,325","size":"100,100"}
+Tem a chave da porta.
+
+Narrador: Ah, era aí que estava o tempo todo então.
+
+[[Remédio]] 
+[[Ler as infos do quadro]] 
+[[Porta]]
+
+
+:: Personagem acorda sentado [personagem] {"position":"600,175","size":"100,100"}
+Ele olha o ambiente. 
+
+Narrador: Acorda! Aproveita que eles acabaram de sair.
+Narrador: Não temos muito tempo. Eles devem chegar em 10 minutos.
+
+[[Remédio]]
+[[Ler as infos do quadro]]
+[[Olhar de trás da cruz]]
+
+
+:: Porta {"position":"400,500","size":"100,100"}
+Personagem vai para a outra sala. 
+
+
+:: Remédio [personagem] {"position":"600,425","size":"100,100"}
+Já tomei esse remédio? Deveria tomar?
+
+Narrador: Não.
+
+[[Olhar de trás da cruz]] 
+[[Ler as infos do quadro]] 
