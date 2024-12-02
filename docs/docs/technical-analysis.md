@@ -42,8 +42,7 @@ O wireframe é um esboço inicial que define o layout e a disposição dos princ
 ### **Nível 1: Quarto Inicial**
 Este nível apresenta o jogador ao jogo com um ambiente simples e elementos básicos que introduzem a mecânica de puzzles.
 
-<img src = "../../assets/wireframe_lvl1.jpeg" width="600">
-
+![alt text](../../assets/wireframe_lvl1.jpeg)
 - **Elementos do Quarto:**
   - **Porta:** Localizada no centro à esquerda do jogador, é a saída do quarto. Está trancada e requer a resolução do puzzle para ser aberta.
   - **Cama:** O jogador começa sentado ou próximo à cama, criando uma sensação de despertar no ambiente.
@@ -57,7 +56,7 @@ Este nível apresenta o jogador ao jogo com um ambiente simples e elementos bás
 ### **Nível 2: O Dormitório**
 Neste nível, a dificuldade aumenta com mais elementos no ambiente, introduzindo novos tipos de puzzles.
 
-<img src = "../../assets/wireframe_lvl2.jpeg" width="600">
+![alt text](../../assets/wireframe_lvl2.jpeg)
 
 - **Elementos do Quarto:**
   - **Mais Camas:** O quarto é maior e contém várias camas, criando um ambiente mais assombroso e mostrando a realidade do verdadeiro ambiente.
@@ -69,7 +68,7 @@ Neste nível, a dificuldade aumenta com mais elementos no ambiente, introduzindo
 ### **Nível 3: A Sala de Tortura**
 O nível final intensifica o terror e a pressão, exigindo mais raciocínio lógico e coragem.
 
-<img src = "../../assets/wireframe_lvl3.jpeg" width="600">
+![alt text](../../assets/wireframe_lvl3.jpeg)
 
 - **Elementos do Quarto:**
   - **Maca de Tortura:** No centro do quarto, uma maca desgastada com manchas e detalhes sombrios aumenta a tensão do ambiente.
