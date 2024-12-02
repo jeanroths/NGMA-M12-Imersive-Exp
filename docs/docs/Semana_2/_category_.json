@@ -1,0 +1,14 @@
+{
+    "position": 2,
+    "label": "Semana 2",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Semana 2"
+    },
+    "customProps": {
+      "description": "Documentacão do que foi desenvolvido durante a semana 2 de desenvolvimento."
+    }
+  }

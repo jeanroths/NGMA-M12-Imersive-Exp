@@ -1,9 +1,15 @@
+---
+title: Análise técnica
+sidebar_position: 0
+---
+
+
 # Análise técnica  
 
 ## Painel de referências do projeto
 O painel de referências do projeto foi criado no software PureRef. Procuramos referências de coisas que remetessem a hospitais psiquiátricos, saúde mental (ou a falta dela), terror, abandono de ambientes físicos e de pessoas. Foi considerado e visto pelo grupo o documentário [Holocausto Brasileiro](https://www.youtube.com/watch?v=jIentTu8nc4), que relata os horrores vividos por uma comunidade de pessoas que ficaram presas e pacientes no hospital Colônia em Barbacena, MG. Além do documentário, a série The Good Place, disponível na Netflix, que aborda temas relacionados entre filosofia e ética, também foi levada em consideração.
 
-![Referências](../../assets/referencias.PNG)
+![Referências](../../../assets/referencias.PNG)
 
 ## Narrativa
 Foi desenvolvida uma arquitetura inicial da narrativa. Ela está disponível no formato .twee e html dentro da pasta assets deste projeto. O objetivo foi compreender a história do quarto inicial do jogo. 
@@ -31,7 +37,7 @@ Os assets selecionados podem ser vistos nesse <a href="https://docs.google.com/d
 * Janela
 * Lixo 
 
-![Hospital](../../assets/hospitale.PNG)
+![Hospital](../../../assets/hospitale.PNG)
 
 ## Wireframes (VR)
 
@@ -42,7 +48,7 @@ O wireframe é um esboço inicial que define o layout e a disposição dos princ
 ### **Nível 1: Quarto Inicial**
 Este nível apresenta o jogador ao jogo com um ambiente simples e elementos básicos que introduzem a mecânica de puzzles.
 
-![alt text](../../assets/wireframe_lvl1.jpeg)
+![alt text](../../../assets/wireframe_lvl1.jpeg)
 
 - **Elementos do Quarto:**
   - **Porta:** Localizada no centro à esquerda do jogador, é a saída do quarto. Está trancada e requer a resolução do puzzle para ser aberta.
@@ -57,7 +63,7 @@ Este nível apresenta o jogador ao jogo com um ambiente simples e elementos bás
 ### **Nível 2: O Dormitório**
 Neste nível, a dificuldade aumenta com mais elementos no ambiente, introduzindo novos tipos de puzzles.
 
-![alt text](../../assets/wireframe_lvl2.jpeg)
+![alt text](../../../assets/wireframe_lvl2.jpeg)
 
 - **Elementos do Quarto:**
   - **Mais Camas:** O quarto é maior e contém várias camas, criando um ambiente mais assombroso e mostrando a realidade do verdadeiro ambiente.
@@ -69,7 +75,7 @@ Neste nível, a dificuldade aumenta com mais elementos no ambiente, introduzindo
 ### **Nível 3: A Sala de Tortura**
 O nível final intensifica o terror e a pressão, exigindo mais raciocínio lógico e coragem.
 
-![alt text](../../assets/wireframe_lvl3.jpeg)
+![alt text](../../../assets/wireframe_lvl3.jpeg)
 
 - **Elementos do Quarto:**
   - **Maca de Tortura:** No centro do quarto, uma maca em formato de cruz desgastada com manchas e detalhes sombrios aumenta a tensão do ambiente.
