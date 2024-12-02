@@ -6,7 +6,7 @@ sidebar_position: 0
 # Documentação: Experiências Imersivas com Realidade Virtual no Entretenimento  
 ## Introdução  
 
-A evolução das tecnologias de Realidade Virtual (VR) e Realidade Aumentada (AR) tem transformado profundamente a forma como interagimos com o entretenimento, oferecendo experiências cada vez mais imersivas e interativas. Esses jogos, conhecidos por seus desafios baseados em resolução de enigmas e exploração de ambientes, representam uma convergência única entre narrativa, tecnologia e criatividade.  
+A evolução das tecnologias de Realidade Virtual (VR) e Realidade Aumentada (AR) tem transformado profundamente a forma como interagimos com o entretenimento, oferecendo experiências cada vez mais imersivas e interativas. Tais experiencias se diversificam em diversas areas, simulações educativas, como treinamentos técnicos, softwares de trabalho, como modelagem 3D e planejamento de ambientes e muitos outros, além de experiencias de entretenimento, que será a área que iremos prosseguir no projeto.
 
 Escolhemos seguir na área de entretenimento e, especialmente, com ênfase no segmento de jogos, por diversos motivos: O investimento no setor de entretenimento em realidade virtual está em crescimento devido ao seu grande potencial de inovação, à demanda crescente por novas formas de interação e entretenimento, e à popularização da tecnologia. Com a evolução dos dispositivos e a criação de novos conteúdos imersivos, o mercado tem um horizonte promissor, atraindo tanto empresas de tecnologia quanto estúdios de mídia e desenvolvedores de jogos.
 Além disso, a indústria global de jogos se mostra bastante lucrativa: [em 2023, ela gerou 183,9 bilhões](https://www.meioemensagem.com.br/marketing/industria-global-de-jogos-gerou-us-1839-bilhoes-em-2023). Hoje, nas áreas do entretenimento, ela já [vale mais que indústrias de música e cinema juntas](https://canaltech.com.br/games/mercado-de-games-agora-vale-mais-que-industrias-de-musica-e-cinema-juntas-179455/). 
@@ -49,6 +49,36 @@ Em uma primeira análise, reunimos as principais ações e verbos que os jogador
 **"Descobrir"**: O objetivo principal do jogo é que o jogador consiga descobrir como sair da sala. Por isso, esse verbo se torna central na dinâmica do jogo.
 
 **"Andar"**: A sala onde ocorrerá o jogo será grande. Como consequência, a dificuldade e a duração do jogo serão aumentadas, algo que buscamos proporcionar aos jogadores. Portanto, o usuário precisará percorrer a sala várias vezes para encontrar pistas relevantes.
+
+## Requisitos funcionais e não funcionais 
+
+### Requisitos funcionais
+
+RF1: O jogo deve permitir que usuário interaja com objetos e mecanismos do ambiente, através dos controladores do console.
+
+RF2: O jogo permite ao usuário interagir com elementos de "puzzle" e desafios alinhados com a narrativa do escape room.
+
+RF3: O jogo deve fornecer mensagens ou dicas para auxiliar o jogador na jornada.
+
+RF4: O jogo deve incluir um sistema de cronômetro vísivel ao jogador para reforçar a sensação de urgẽncia.
+
+RF5: O jogo deve fornecer efeitos sonoros, iluminação dinâmica, e elementos assustadores para aumentar a imersão do jogador.
+
+RF6: O jogo deve fornecer feedbacks para quando o jogador completar desafios, refletindo a importância do feito. Esses feedbacks podem reutilizar elementos definidos no RF5, como efeitos sonoros e iluminação dinâmica, complementados por mensagens textuais ou visuais específicas para o contexto.
+
+### Requisitos não funcionais
+
+RNF1: O jogo deve ser considerado intuitivo por pelo menos 80% dos jogadores participantes de testes de usabilidade.
+
+RNF2: O jogo deve ser compatível com o dispositivo Meta Quest 3.
+
+RNF3: As interações do jogo devem possuir um tempo de resposta inferior a 100ms.
+
+RNF4: O jogo deve executar constantemente a pelo menos 90 FPS para garantir fluidez e reduzir possibilidade de motion sickiness.
+
+
+  
+
 
 ## Referências
 WAKKA, Wagner. Mercado de games agora vale mais que indústrias de música e cinema juntas. Canaltech, 25 fev. 2021. Disponível em: https://canaltech.com.br/games/mercado-de-games-agora-vale-mais-que-industrias-de-musica-e-cinema-juntas-179455/. Acesso em: 22 nov. 2024.
