@@ -1,18 +1,19 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class CountdownTimer : MonoBehaviour
 {
     public float countdownTime = 600f; 
-    public Text countdownText; 
+    public TextMeshPro countdownText; 
     public AudioSource voiceClip;  
     private bool isCountingDown = false;
 
     void Start()
     {
         FindObjectOfType<AudioManager>().Play("tema");
-        StartCountdown();
+        StartCoroutine(TriggerEventWithDelay(CountdownEvent.Narracao1, 1f));
     }
 
     public void StartCountdown()
@@ -46,7 +47,8 @@ public class CountdownTimer : MonoBehaviour
     {
         Narracao1,
         Relogio,
-        FimCountdown
+        FimCountdown,
+        Countdown
     }
 
     private IEnumerator CountdownCoroutine()
@@ -58,11 +60,6 @@ public class CountdownTimer : MonoBehaviour
             if (countdownText != null)
             {
                 countdownText.text = FormatTime(remainingTime);
-            }
-
-            if (Mathf.Approximately(remainingTime, 598f))
-            {
-                TriggerEvent(CountdownEvent.Narracao1);
             }
 
             yield return new WaitForSeconds(1f);
@@ -79,7 +76,12 @@ public class CountdownTimer : MonoBehaviour
         {
             case CountdownEvent.Narracao1:
                 FindObjectOfType<AudioManager>().Play("narracao-1");
-                StartCoroutine(TriggerEventWithDelay(CountdownEvent.Relogio, 4f));
+                StartCoroutine(TriggerEventWithDelay(CountdownEvent.Countdown, 6f));
+                StartCoroutine(TriggerEventWithDelay(CountdownEvent.Relogio, 5f));
+                break;
+
+            case CountdownEvent.Countdown:
+                StartCountdown();
                 break;
 
             case CountdownEvent.Relogio:
